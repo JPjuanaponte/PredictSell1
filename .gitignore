@@ -1,0 +1,13 @@
+# Ignorar carpetas específicas
+include/
+lib/
+Scripts/
+share/
+etc/
+
+# Ignorar archivo pyvenv.cfg
+pyvenv.cfg
+
+# Ignorar entornos virtuales de Python
+*.venv/
+venv/
