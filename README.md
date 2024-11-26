@@ -10,6 +10,10 @@
 </div>
 </center>
 
+## 🔷En el siguiete link puede acceder al video del proyecto:
+
+
+[Entregable video PredictSell ](https://drive.google.com/file/d/14bTdvpB_Tf6o1kUZbys9h7d4ACAzhJMF/view?usp=sharing)
 # Proyecto de Predicción de Ventas Futuras
 
 Este proyecto tiene como objetivo predecir las ventas futuras utilizando un modelo de Machine Learning basado en datos históricos de transacciones. El flujo de trabajo está organizado en varias etapas clave, desde la configuración inicial hasta la implementación final del modelo de predicción. A continuación, se detallan todos los pasos que se siguieron.
